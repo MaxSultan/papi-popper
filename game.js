@@ -54,8 +54,8 @@ class PapiPopperGame {
     async loadSpriteSheet() {
         try {
             // Use the modern Pixi.js asset loading system
-            const texture = await PIXI.Assets.load('./papi-sprite.jpeg');
-            console.log('✅ Successfully loaded papi-sprite.jpeg');
+            const texture = await PIXI.Assets.load('./papi-sprite.png');
+            console.log('✅ Successfully loaded papi-sprite.png');
             this.createSpritesFromSheet(texture);
         } catch (error) {
             console.log('❌ Error loading sprite sheet, using fallback graphics');
