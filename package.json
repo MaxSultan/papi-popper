@@ -1,0 +1,28 @@
+{
+  "name": "papi-popper",
+  "version": "1.0.0",
+  "description": "An endless runner game using Pixi.js",
+  "main": "index.html",
+  "homepage": "https://maxwellsultan.github.io/papi-popper",
+  "scripts": {
+    "start": "http-server -p 8080 -c-1",
+    "dev": "http-server -p 8080 -c-1",
+    "build": "echo 'No build step required for static site'",
+    "deploy": "gh-pages -d ."
+  },
+  "dependencies": {
+    "pixi.js": "^7.3.2"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0",
+    "http-server": "^14.1.1"
+  },
+  "keywords": [
+    "game",
+    "pixi.js",
+    "endless-runner",
+    "github-pages"
+  ],
+  "author": "",
+  "license": "MIT"
+}
