@@ -76,18 +76,11 @@ This project is configured for easy deployment to GitHub Pages:
 2. GitHub Actions will automatically deploy to GitHub Pages
 3. Your game will be available at `https://[your-username].github.io/papi-popper`
 
-### Manual Deployment
-1. Install the gh-pages package:
-   ```bash
-   npm install
-   ```
-
-2. Deploy to GitHub Pages:
-   ```bash
-   npm run deploy
-   ```
-
-3. Go to your repository settings and enable GitHub Pages from the `gh-pages` branch
+### Setup GitHub Pages
+1. Go to your repository settings
+2. Navigate to "Pages" in the sidebar
+3. Select "GitHub Actions" as the source
+4. The workflow will automatically deploy when you push to main
 
 ## 🎯 How to Play
 

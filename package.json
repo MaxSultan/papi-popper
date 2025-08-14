@@ -7,14 +7,12 @@
   "scripts": {
     "start": "http-server -p 8080 -c-1",
     "dev": "http-server -p 8080 -c-1",
-    "build": "echo 'No build step required for static site'",
-    "deploy": "gh-pages -d ."
+    "build": "echo 'No build step required for static site'"
   },
   "dependencies": {
     "pixi.js": "^7.3.2"
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
     "http-server": "^14.1.1"
   },
   "keywords": [
