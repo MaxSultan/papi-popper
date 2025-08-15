@@ -2,7 +2,7 @@
 
 An exciting endless runner game built with Pixi.js featuring a Home Depot employee character with multiple poses and animations!
 
-🎮 **Play the game live:** [https://maxwellsultan.github.io/papi-popper](https://maxwellsultan.github.io/papi-popper)
+🎮 **Play the game live:** [https://maxsultan.github.io/papi-popper](https://maxsultan.github.io/papi-popper)
 
 ## 🎮 Game Features
 
@@ -26,7 +26,7 @@ An exciting endless runner game built with Pixi.js featuring a Home Depot employ
 ## 🚀 How to Run
 
 ### Option 1: Play Online (Recommended)
-🎮 **Play the game live:** [https://maxwellsultan.github.io/papi-popper](https://maxwellsultan.github.io/papi-popper)
+🎮 **Play the game live:** [https://maxsultan.github.io/papi-popper](https://maxsultan.github.io/papi-popper)
 
 ### Option 2: Local Development
 1. Install dependencies:
